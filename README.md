@@ -1,6 +1,6 @@
 # pandas_cheatsheet
 Due to heavy usage of Python Pandas library, I have created a cheatsheet repo to easily use it without memorizing the whole package.
-I am strictly following the exercises [this](https://github.com/guipsamora/pandas_exercises) link
+I am strictly following the exercises [this](https://github.com/guipsamora/pandas_exercises) link.
 
 ## Lesson 1 - Getting to know the data
 1.1 [Chipotle](https://github.com/AshHasib/pandas_cheatsheet/blob/master/1.1-%20Chipotle_Exercise_Solution.ipynb)  
