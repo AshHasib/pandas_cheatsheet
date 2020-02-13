@@ -10,3 +10,4 @@ I am strictly following the exercises [this](https://github.com/guipsamora/panda
 ## Lesson 2 - Filtering and Sorting
 2.1 [Chipotle](https://github.com/AshHasib/pandas_cheatsheet/blob/master/2.1%20-%20Chipotle_Exercise_Solution.ipynb)   
 2.2 [Euro12](https://github.com/AshHasib/pandas_cheatsheet/blob/master/2.2%20-%20Euro12.ipynb)  
+2.3 [Fictional Army](https://github.com/AshHasib/pandas_cheatsheet/blob/master/2.3%20-%20Fictional%20Army.ipynb)  
