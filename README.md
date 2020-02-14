@@ -11,3 +11,7 @@ I am strictly following the exercises [this](https://github.com/guipsamora/panda
 2.1 [Chipotle](https://github.com/AshHasib/pandas_cheatsheet/blob/master/2.1%20-%20Chipotle_Exercise_Solution.ipynb)   
 2.2 [Euro12](https://github.com/AshHasib/pandas_cheatsheet/blob/master/2.2%20-%20Euro12.ipynb)  
 2.3 [Fictional Army](https://github.com/AshHasib/pandas_cheatsheet/blob/master/2.3%20-%20Fictional%20Army.ipynb)  
+
+
+## Lesson 3- Grouping
+3.1 [Alcohol Consumption](https://github.com/AshHasib/pandas_cheatsheet/blob/master/3.1%20-%20Alcohol%20Consumption.ipynb)
