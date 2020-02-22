@@ -15,4 +15,5 @@ I am strictly following the exercises [this](https://github.com/guipsamora/panda
 
 ## Lesson 3- Grouping
 3.1 [Alcohol Consumption](https://github.com/AshHasib/pandas_cheatsheet/blob/master/3.1%20-%20Alcohol%20Consumption.ipynb)  
-3.2 [Occupation](https://github.com/AshHasib/pandas_cheatsheet/blob/master/3.2-%20Occupation.ipynb)
+3.2 [Occupation](https://github.com/AshHasib/pandas_cheatsheet/blob/master/3.2-%20Occupation.ipynb)  
+3.3 [Regiment](https://github.com/AshHasib/pandas_cheatsheet/blob/master/3.3%20-%20Regiment.ipynb)
